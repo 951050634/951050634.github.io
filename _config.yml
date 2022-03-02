@@ -109,3 +109,5 @@ friends: [
         href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
+
+theme: jekyll-theme-cayman
