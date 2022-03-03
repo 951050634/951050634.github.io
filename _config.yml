@@ -1,9 +1,9 @@
 # Site settings
-title: OI
-SEOTitle: 951050634
+title: 951050634
+SEOTitle: 951050634的BLOG
 header-img: img/bg-for-all.png
 email: 951050634@qq.com
-description: "QwQ"
+description: "这是一个OIer的博客，同时会在这里分享一些美图、阅读感悟、题解等内容"
 keyword: "OI,OIer,genshin impact"
 url: "https://951050634.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
