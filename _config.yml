@@ -7,7 +7,7 @@ description: "qwq"
 keyword: "qaq,awa,QWQ,TAT"
 url: "https://951050634.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/951050634/951050634.github.io" # you code repository
+github_repo: "https://github.com/951050634/951050634.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,8 +64,8 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
+  repo: 951050634.github.io    #仓库名称
+  owner: 951050634    #github用户名
   admin: klovien
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
