@@ -1,6 +1,6 @@
 # Site settings
-title: OI
-SEOTitle: 951050634
+title: 951050634
+SEOTitle: 951050634的BLOG
 header-img: img/bg-for-all.png
 email: 951050634@qq.com
 description: "QwQ"
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
+  clientID: c3a281bc5919778b011f                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
   repo: 951050634.github.io    #仓库名称
   owner: 951050634    #github用户名
-  admin: klovien
+  admin: 951050634
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
