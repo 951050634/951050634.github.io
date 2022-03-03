@@ -1,4 +1,3 @@
-```text
 ---
 layout:     post
 title:      AtCoder Beginner Contest 240
@@ -6,13 +5,10 @@ subtitle:   题解报告
 date:       2022-03-03
 author:     951050634
 header-img: img-post/2022-03-03-AtCoder Beginner Contest 240/header.png
-catalog:   true
+catalog: false
 tags:
     - 比赛
 ---
-```
-
-
 
 # **AtCoder Beginner Contest 240**
 
