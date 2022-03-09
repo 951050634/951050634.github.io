@@ -36,7 +36,7 @@ tags:
 
 ---
 
-`CPP`
+## CPP
 
 ``` cpp
 #include <bits/stdc++.h>
